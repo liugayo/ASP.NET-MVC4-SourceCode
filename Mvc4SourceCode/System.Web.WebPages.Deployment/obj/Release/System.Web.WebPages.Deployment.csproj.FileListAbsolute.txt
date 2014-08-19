@@ -1,0 +1,9 @@
+D:\NeweggMobileWebsite2.0\03_Code\Mobile_WWW_EC_Framework2.0\v01.2\Framework\Mvc4SourceCode\System.Web.WebPages.Deployment\bin\Release\System.Web.WebPages.Deployment.XML
+D:\NeweggMobileWebsite2.0\03_Code\Mobile_WWW_EC_Framework2.0\v01.2\Framework\Mvc4SourceCode\System.Web.WebPages.Deployment\bin\Release\System.Web.WebPages.Deployment.dll
+D:\NeweggMobileWebsite2.0\03_Code\Mobile_WWW_EC_Framework2.0\v01.2\Framework\Mvc4SourceCode\System.Web.WebPages.Deployment\bin\Release\System.Web.WebPages.Deployment.pdb
+D:\NeweggMobileWebsite2.0\03_Code\Mobile_WWW_EC_Framework2.0\v01.2\Framework\Mvc4SourceCode\System.Web.WebPages.Deployment\obj\Release\System.Web.WebPages.Deployment.csprojResolveAssemblyReference.cache
+D:\NeweggMobileWebsite2.0\03_Code\Mobile_WWW_EC_Framework2.0\v01.2\Framework\Mvc4SourceCode\System.Web.WebPages.Deployment\obj\Release\System.Web.WebPages.Deployment.Common.CommonResources.resources
+D:\NeweggMobileWebsite2.0\03_Code\Mobile_WWW_EC_Framework2.0\v01.2\Framework\Mvc4SourceCode\System.Web.WebPages.Deployment\obj\Release\System.Web.WebPages.Deployment.Resources.ConfigurationResources.resources
+D:\NeweggMobileWebsite2.0\03_Code\Mobile_WWW_EC_Framework2.0\v01.2\Framework\Mvc4SourceCode\System.Web.WebPages.Deployment\obj\Release\System.Web.WebPages.Deployment.csproj.GenerateResource.Cache
+D:\NeweggMobileWebsite2.0\03_Code\Mobile_WWW_EC_Framework2.0\v01.2\Framework\Mvc4SourceCode\System.Web.WebPages.Deployment\obj\Release\System.Web.WebPages.Deployment.dll
+D:\NeweggMobileWebsite2.0\03_Code\Mobile_WWW_EC_Framework2.0\v01.2\Framework\Mvc4SourceCode\System.Web.WebPages.Deployment\obj\Release\System.Web.WebPages.Deployment.pdb
